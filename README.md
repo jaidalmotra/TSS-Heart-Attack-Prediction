@@ -1,1 +1,1 @@
-# TSS-heart-attack_prediction
+# TSS-heart-attack-prediction
